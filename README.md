@@ -1,6 +1,7 @@
 # Proyecto Arbolando Madrid
 
-Herramienta visualización: Power BI Desktop
+Herramienta visualización: Power BI 
+
 Contexto: El Ministerio para la Transición Ecológica y Reto Demográfico encargó la realización de un análisis preliminar de los espacios verdes de Madrid para ubicar el próximo parque urbano de la ciudad. Para determinar cuál es el distrito más idóneo, se han analizado 4 variables: los espacios verdes disponibles, la renta per capita, la densidad de población y la contaminación de cada distrito.
 
 FASE 1: Exploración, Limpieza y Transformación el Conjunto de Datos
